@@ -1,3 +1,5 @@
+[SLAT-MIB.zip](https://github.com/firesixtieone/Zabix_SNMP-template-SLAT/files/7957063/SLAT-MIB.zip)
+[SNMP_SLAT.zip](https://github.com/firesixtieone/Zabix_SNMP-template-SLAT/files/7957067/SNMP_SLAT.zip)
 # Zabix_SNMP-template-SLAT
 SNMP Monitoring of SLAT battery pack
 
